@@ -1,0 +1,12 @@
+beautifulsoup4==4.12.3
+cryptography==44.0.0
+firebase_admin==6.6.0
+pyppeteer==2.0.0
+Requests==2.32.3
+requests_html==0.10.0
+rich==13.9.4
+selenium==4.27.1
+six==1.17.0
+tqdm==4.67.1
+#urllib3==2.3.0
+urllib3<2.0.0
