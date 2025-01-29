@@ -1,4 +1,4 @@
-#!/Users/poorduck/projects/.project-env/bin/python
+#!/opt/homebrew/bin/python3.11
 
 """
 Author: poorduck
